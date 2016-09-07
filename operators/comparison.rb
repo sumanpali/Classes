@@ -15,3 +15,5 @@ class Compare
 end
 obj = Compare.new
 obj.comparison
+obj2 = Compare.new
+obj2.comparison
