@@ -1,6 +1,7 @@
 class Arithmetic
 def arithmetic
   p 'enter two numbers'
+  p 'var1', 'var2'
   val1 = gets
   val2 = gets
   val1=val1.to_i
